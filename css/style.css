@@ -1,0 +1,125 @@
+.main_banner{
+    background: #F0EFEB;
+    padding: 9px 0 24px;
+}
+.main_banner .container{
+    max-width: 1064px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main_banner article{
+    max-width: 534px;
+}
+.main_banner h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    color: #000000;
+    margin-bottom: 42px;
+}
+.main_banner p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-bottom: 26px;
+
+}
+.main_banner a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    padding: 8px 23px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+}
+.main_image {
+    max-width: 599px;
+    position: relative;
+    left: 59px;
+}
+.main_image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.second_banner{
+    background: #E5E5E5;
+    padding: 60px 0 248px;
+}
+.second_banner .container{
+    max-width: 1064px;
+    margin: auto;
+    text-align: center;
+}
+.second_banner h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+}
+.second_banner .our_guides{
+    margin-bottom: 27px;
+}
+.second_banner p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+}
+.second_banner .info{
+    margin-bottom: 47px;
+}
+.second_banner .available{
+    margin-bottom: 88px;
+}
+.second_banner .our_sellers{
+    margin-bottom: 52px;
+}
+.second_banner .sellers a{
+    max-width: 309px;
+    max-height: 422px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.second_banner .thalby{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 17px;
+}
+.second_banner .price{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 10px;
+}
+.second_banner .cart{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    text-decoration-line: underline;
+}
